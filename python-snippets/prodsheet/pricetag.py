@@ -1,0 +1,1 @@
+product={'oil': 5, 'wheat': 34, 'rice': 20}

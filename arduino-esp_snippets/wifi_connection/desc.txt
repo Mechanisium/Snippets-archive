@@ -1,0 +1,1 @@
+for connecting supported esp8266 boards like nodemcu to wifi

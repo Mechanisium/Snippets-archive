@@ -1,0 +1,1 @@
+finding out oled i2c address using serial communication for establishing purposes
